@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+
+# После привязки домена этот адрес станет рабочим автоматически
+Sitemap: https://marinavaal-extensions.es/sitemap.xml
